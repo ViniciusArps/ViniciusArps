@@ -1,4 +1,12 @@
-## Hi there 👋
+- Oi, eu sou Vinicius 
+- Sou paixonado por tecnologias, jogos eletrônicos e Airsoft. 
+- Minha maior experiência na area de tecnologia é em suporte. 
+- Formado em ADS e atualmente estou estudando Cibersegurança
+- Aqui você pode ver o meu portfólio de repositórios.
+
+  ##### Me adicione no LinkedIn!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-cardoso-882455220/)
 
 <!--
 **ViniciusArps/ViniciusArps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
