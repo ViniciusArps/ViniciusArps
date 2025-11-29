@@ -3,9 +3,11 @@
 - Minha maior experiência na area de tecnologia é em suporte. 
 - Formado em ADS e atualmente estou estudando Cibersegurança
 - Aqui você pode ver o meu portfólio de repositórios.
-  
+
+<div display="inline"> 
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" />
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+</div>
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-cardoso-882455220/)
